@@ -4,7 +4,7 @@
 
 ## 公開ページ
 
-https://imataka1995-star.github.io/lunch-advisor/
+https://imataka1995-star.github.io/lunch-advisor/index.html
 
 PCでは一覧表、スマートフォンでは日ごとのカード表示になります。上部の「今日」「月間ベスト」「第1週〜第5週」から目的の場所へ移動できます。
 
